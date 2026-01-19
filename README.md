@@ -21,9 +21,10 @@ To address this issue, we introduce **ChatEarthBench**, a comprehensive benchmar
 
 ## Citation
 
+```bibtex
 @article{Yuan2026ChatEarthBench,
-  title={ChatEarthBench: Benchmarking Multimodal Large Language Models for Earth Observation},
-  author={Zhenghang Yuan, Zhitong Xiong, Thomas Dujardin, Xiang Li, Lichao Mou, and Xiao Xiang Zhu},
-  journal={IEEE Geoscience and Remote Sensing Magazine},
-  year={2026}
+  title   = {ChatEarthBench: Benchmarking Multimodal Large Language Models for Earth Observation},
+  author  = {Zhenghang Yuan and Zhitong Xiong and Thomas Dujardin and Xiang Li and Lichao Mou and Xiao Xiang Zhu},
+  journal = {IEEE Geoscience and Remote Sensing Magazine},
+  year    = {2026}
 }
